@@ -1,0 +1,15 @@
+{
+  "name": "eForager - Easy to store, easier to find",
+  "short_name": "eForager",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#673ab6",
+  "background_color": "#111111",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
